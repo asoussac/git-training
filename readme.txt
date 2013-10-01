@@ -28,3 +28,4 @@ TODO.txt de l'index actuel et commiter un fichier puis l'autre les messages sero
 prévues pour le projet"
 • Vérifier que les deux fichiers soient biens commités dans deux commits différents avec la
 commande git log
+Les tâches techniques à effectuer sont dans le
